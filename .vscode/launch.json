@@ -4,8 +4,13 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
-
+        {
+            "type": "java",
+            "name": "for_each_loop",
+            "request": "launch",
+            "mainClass": "for_each_loop",
+            "projectName": "java01GZL_d45d7c"
+        },
         {
             "type": "java",
             "name": "Current File",
