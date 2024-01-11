@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "overloaded_methods",
+            "request": "launch",
+            "mainClass": "overloaded_methods",
+            "projectName": "java01GZL_d45d7c"
+        },
+        {
+            "type": "java",
             "name": "method",
             "request": "launch",
             "mainClass": "method",
