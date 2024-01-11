@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "method",
+            "request": "launch",
+            "mainClass": "method",
+            "projectName": "java01GZL_d45d7c"
+        },
+        {
+            "type": "java",
             "name": "for_each_loop",
             "request": "launch",
             "mainClass": "for_each_loop",
