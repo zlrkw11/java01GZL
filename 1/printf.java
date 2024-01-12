@@ -22,6 +22,12 @@ public class printf {
 
         // precision
         System.out.printf("You have this much money %.2f", myDouble);
+        
+        // flag
+        System.out.printf("You have this much money %-20f", myDouble);
+        System.out.printf("You have this much money %+f", myDouble);
+        System.out.printf("You have this much money %020f", myDouble);
+        System.out.printf("You have this much money %,f", myDouble);
     }
     
 }
