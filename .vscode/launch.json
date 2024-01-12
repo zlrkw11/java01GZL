@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "oop",
+            "request": "launch",
+            "mainClass": "oop",
+            "projectName": "java01GZL_d45d7c"
+        },
+        {
+            "type": "java",
             "name": "printf",
             "request": "launch",
             "mainClass": "printf",
