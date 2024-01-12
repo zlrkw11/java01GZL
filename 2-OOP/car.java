@@ -14,6 +14,4 @@ public class car{
         System.out.println("You step on the brakes");
     }
 
-
-
 }

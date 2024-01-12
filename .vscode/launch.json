@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "oopCar",
+            "request": "launch",
+            "mainClass": "oopCar",
+            "projectName": "java01GZL_d45d7c"
+        },
+        {
+            "type": "java",
             "name": "oop",
             "request": "launch",
             "mainClass": "oop",
