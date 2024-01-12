@@ -18,7 +18,10 @@ public class printf {
 
         // width property 
         System.out.printf("Hello %10s", myString);
-        
+
+
+        // precision
+        System.out.printf("You have this much money %.2f", myDouble);
     }
     
 }
