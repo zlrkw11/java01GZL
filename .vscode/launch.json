@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "java01GZL_d45d7c"
+        },
+        {
+            "type": "java",
+            "name": "Student3",
+            "request": "launch",
+            "mainClass": "Student3",
+            "projectName": "java01GZL_d45d7c"
+        },
+        {
+            "type": "java",
+            "name": "main2",
+            "request": "launch",
+            "mainClass": "main2",
+            "projectName": "java01GZL_d45d7c"
+        },
+        {
+            "type": "java",
             "name": "oopCar",
             "request": "launch",
             "mainClass": "oopCar",

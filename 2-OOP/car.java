@@ -1,4 +1,4 @@
-public class car{
+public class Car{
     String make = "Chevrolet";
     String model = "Corvette";
     int year = 2024;

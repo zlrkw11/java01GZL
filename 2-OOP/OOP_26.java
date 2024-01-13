@@ -1,9 +1,9 @@
-public class oopCar {
+public class OOP_26 {
     public static void main(String[]args){
         
         // creating objects using class
-        car myCar1 = new car();
-        car myCar2 = new car();
+        Car myCar1 = new Car();
+        Car myCar2 = new Car();
 
         
         System.out.println(myCar1.make);
