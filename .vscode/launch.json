@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ToString_30",
+            "request": "launch",
+            "mainClass": "ToString_30",
+            "projectName": "java01GZL_d45d7c"
+        },
+        {
+            "type": "java",
             "name": "Overloaded_constructors_29",
             "request": "launch",
             "mainClass": "Overloaded_constructors_29",
