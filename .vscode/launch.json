@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Overloaded_constructors_29",
+            "request": "launch",
+            "mainClass": "Overloaded_constructors_29",
+            "projectName": "java01GZL_d45d7c"
+        },
+        {
+            "type": "java",
+            "name": "Variables_28",
+            "request": "launch",
+            "mainClass": "Variables_28",
+            "projectName": "java01GZL_d45d7c"
+        },
+        {
+            "type": "java",
             "name": "Main_27_2",
             "request": "launch",
             "mainClass": "Main_27_2",
