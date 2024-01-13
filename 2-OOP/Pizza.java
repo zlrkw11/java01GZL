@@ -6,6 +6,14 @@ public class Pizza {
     String topping;
 
     // constructor 1
+    Pizza(String bread){
+
+        // assign
+        this.bread = bread;
+
+    };
+
+    // constructor 1
     Pizza(String bread, String sauce){
 
         // assign
