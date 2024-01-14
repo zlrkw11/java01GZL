@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OOP",
+            "request": "launch",
+            "mainClass": "OOP",
+            "projectName": "java01GZL_d45d7c"
+        },
+        {
+            "type": "java",
             "name": "Objects_as_args",
             "request": "launch",
             "mainClass": "Objects_as_args",
