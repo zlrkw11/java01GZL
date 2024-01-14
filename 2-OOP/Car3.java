@@ -1,3 +1,3 @@
-public class Car3 {
+public class Car3 extends Vehicle{
     
 }
