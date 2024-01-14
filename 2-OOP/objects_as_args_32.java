@@ -1,4 +1,4 @@
-public class objects_as_args_32 {
+public class Objects_as_args_32 {
     public static void main(String[] args) {
         
         Garage garage = new Garage();

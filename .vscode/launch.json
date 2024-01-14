@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Static_keyword",
+            "request": "launch",
+            "mainClass": "Static_keyword",
+            "projectName": "java01GZL_d45d7c"
+        },
+        {
+            "type": "java",
             "name": "objects_as_args_32",
             "request": "launch",
             "mainClass": "objects_as_args_32",
