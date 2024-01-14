@@ -1,4 +1,4 @@
-public class Inheritance_33 {
+public class Inheritance {
     public static void main(String[] args) {
         
         Car3 car = new Car3();

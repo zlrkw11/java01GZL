@@ -1,4 +1,4 @@
-public class Overloaded_constructors_29 {
+public class Overloaded_constructors {
     public static void main(String[] args) {
 
         // new pizza object

@@ -1,4 +1,4 @@
-public class Array_of_objects_31 {
+public class Array_of_objects {
     public static void main(String[] args) {
         
         // data types

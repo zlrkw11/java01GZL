@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Objects_as_args",
+            "request": "launch",
+            "mainClass": "Objects_as_args",
+            "projectName": "java01GZL_d45d7c"
+        },
+        {
+            "type": "java",
+            "name": "Inheritance_33",
+            "request": "launch",
+            "mainClass": "Inheritance_33",
+            "projectName": "java01GZL_d45d7c"
+        },
+        {
+            "type": "java",
             "name": "Static_keyword",
             "request": "launch",
             "mainClass": "Static_keyword",

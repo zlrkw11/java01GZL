@@ -1,4 +1,4 @@
-public class OOP_26 {
+public class OOP {
     public static void main(String[]args){
         
         // creating objects using class

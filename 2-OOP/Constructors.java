@@ -1,4 +1,4 @@
-public class Main_27_2 {
+public class Constructors {
     public static void main(String[]args){
 
         Human human1 = new Human("Nate", 20, 50);

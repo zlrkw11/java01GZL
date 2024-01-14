@@ -1,4 +1,4 @@
-public class ToString_30 {
+public class ToString {
     public static void main(String[] args) {
         Car car = new Car();
         System.out.println(car.toString());
