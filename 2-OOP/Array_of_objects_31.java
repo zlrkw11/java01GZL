@@ -3,6 +3,7 @@ public class Array_of_objects_31 {
         
         // data types
         //Food[] refrigerator = new Food[3];
+        int [] numbers = new int[3];
 
         Food food1 = new Food("pizza");
         Food food2 = new Food("hamburger");

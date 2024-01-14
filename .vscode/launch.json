@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "objects_as_args_32",
+            "request": "launch",
+            "mainClass": "objects_as_args_32",
+            "projectName": "java01GZL_d45d7c"
+        },
+        {
+            "type": "java",
             "name": "Array_of_objects_31",
             "request": "launch",
             "mainClass": "Array_of_objects_31",
