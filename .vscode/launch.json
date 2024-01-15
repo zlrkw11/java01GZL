@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "Abstract.Main",
+            "projectName": "java01GZL_d45d7c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "Super.Main",
             "projectName": "java01GZL_d45d7c"
         },
