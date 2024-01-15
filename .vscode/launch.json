@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "A",
+            "request": "launch",
+            "mainClass": "Access_Modifier.package1.A",
+            "projectName": "java01GZL_d45d7c"
+        },
+        {
+            "type": "java",
+            "name": "Asub",
+            "request": "launch",
+            "mainClass": "Access_Modifier.package2.Asub",
+            "projectName": "java01GZL_d45d7c"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Abstract.Main",
