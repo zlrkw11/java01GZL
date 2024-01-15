@@ -9,4 +9,9 @@ public class Person {
 
     }
 
+    // super method
+    public String toString(){
+        return this.name + "\n" + this.age + "\n";
+    }
+
 }
