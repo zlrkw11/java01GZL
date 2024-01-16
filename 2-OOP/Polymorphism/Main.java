@@ -3,8 +3,8 @@ package Polymorphism;
 public class Main {
     
     Car car = new Car();
-    Bicycle bicycle = new bicycle();
+    Bicycle bicycle = new Bicycle();
     Boat boat = new Boat();
-    
-    racers = {car, bicycle, boat};
+
+    Vehicle[] racers = {car, bicycle, boat};
 }
