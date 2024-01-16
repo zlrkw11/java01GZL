@@ -27,6 +27,9 @@ public class Main {
         catch(InputMismatchException e){
             System.out.println("PLEASE ENTER A NUMBER OMFG!!!");
         }
+        catch(Exception e){
+            System.out.println("Something went wrong");
+        }
 
 
     }   
