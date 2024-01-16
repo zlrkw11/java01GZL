@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Encapsulation.Main",
+            "projectName": "java01GZL_d45d7c"
+        },
+        {
+            "type": "java",
             "name": "A",
             "request": "launch",
             "mainClass": "Access_Modifier.package1.A",
