@@ -9,7 +9,7 @@ public class Main {
         System.out.println(car.getYear());
 
         // change attributes
-        Car.set
+        car.setYear(2022);
     }
 }
 
