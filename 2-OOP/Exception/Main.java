@@ -5,10 +5,10 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         
-
+        Scanner scanner = new Scanner(System.in);
         // exception handling
         try{
-            Scanner scanner = new Scanner(System.in);
+            
 
             System.out.println("Enter a whole number to divide: ");        
             int x = scanner.nextInt();
@@ -29,6 +29,10 @@ public class Main {
         }
         catch(Exception e){
             System.out.println("Something went wrong");
+        }
+        finally{
+            System.out.println("This will always print");
+            scanner.close();
         }
 
 
