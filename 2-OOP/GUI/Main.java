@@ -5,6 +5,8 @@ import java.awt.Color;
 
 public class Main {
     public static void main(String[] args) {
+
+        /* 
         JFrame frame = new JFrame();
         
         // setting up 
@@ -18,7 +20,8 @@ public class Main {
         frame.setIconImage(image.getImage());
 
         frame.getContentPane().setBackground(Color.red);
-    
+        */
+        MyFrame myFrame = new MyFrame();
     }
 }
 
