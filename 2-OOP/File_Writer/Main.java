@@ -10,7 +10,8 @@ public class Main {
         try{
             FileWriter writer = new FileWriter("2-OOP\\File_Writer\\poem.txt");
             writer.write("Roses are red \nViolets are blue\nBooty booty booty booty\nRockin' everywhere!");
-            
+            writer.append("\n(A poem by Ray Zhao)");
+            writer.close();
             writer.close();
         }
         catch(IOException e){
