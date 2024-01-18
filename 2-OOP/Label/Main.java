@@ -32,10 +32,14 @@ public class Main {
         label.setVerticalAlignment(JLabel.CENTER);
         label.setHorizontalAlignment(JLabel.CENTER);
 
+        // set x,y position within frame as well as dimensions
+        label.setBounds(100,100,250,250);
+
 
         JFrame frame = new JFrame();
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(500,500);
+        frame.setLayout(null);
         frame.setVisible(true);
         frame.add(label);
     }
