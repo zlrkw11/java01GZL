@@ -17,7 +17,8 @@ public class Main {
         JLabel label = new JLabel();
         label.setText("ZLRKW11");
         label.setIcon(icon);
-        label.setVerticalAlignment(JLabel.TOP);
+        label.setVerticalAlignment(JLabel.BOTTOM);
+        label.setHorizontalAlignment(JLabel.RIGHT);
 
         JPanel redPanel = new JPanel();
         redPanel.setBackground(Color.red);
