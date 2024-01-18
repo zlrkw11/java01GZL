@@ -1,8 +1,10 @@
 package Panel;
+import java.awt.*;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.JLabel;
-
+import javax.swing.border.Border;
+import javax.swing.BorderFactory;
 import javax.swing.ImageIcon;
 import java.awt.Color;
 
@@ -15,6 +17,7 @@ public class Main {
         JLabel label = new JLabel();
         label.setText("ZLRKW11");
         label.setIcon(icon);
+        label.setVerticalAlignment(JLabel.TOP);
 
         JPanel redPanel = new JPanel();
         redPanel.setBackground(Color.red);
@@ -27,12 +30,17 @@ public class Main {
         JPanel greenPanel = new JPanel();
         greenPanel.setBackground(Color.green);
         greenPanel.setBounds(0,250,500,250);
+        greenPanel.setLayout(new BorderLayout());
+     
+        
+
 
         JFrame frame = new JFrame();
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(750,750);
         frame.setLayout(null);
         frame.setVisible(true);
+
 
 
         greenPanel.add(label);
