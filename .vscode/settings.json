@@ -2,7 +2,8 @@
     "java.project.sourcePaths": [
         "src",
         "2-OOP",
-        "1-Fundamentals"
+        "1-Fundamentals",
+        "3-GUI/Button"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
